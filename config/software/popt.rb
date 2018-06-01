@@ -23,7 +23,7 @@ skip_transitive_dependency_licensing true
 
 dependency "config_guess"
 
-source url: "http://rpm5.org/files/popt/popt-#{version}.tar.gz",
+source url: "ftp://anduin.linuxfromscratch.org/BLFS/popt/popt-#{version}.tar.gz",
        md5: "3743beefa3dd6247a73f8f7a32c14c33"
 
 relative_path "popt-#{version}"
